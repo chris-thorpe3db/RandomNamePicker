@@ -6,7 +6,7 @@ Random Name Picker is a simple program that allows the user to add multiple name
 
 This program requires the .NET 8 SDK, as well as a computer capable of running .NET.
 
-This project is configured to build with Ahead-of-time Compilation, a new feature in the .NET SDK. For more information, see [Microsoft's Documentation](https://learn.microsoft.com/en-us/dotnet/core/deploying/native-aot/). AOT binaries are NOT portable and won't work between different operating systems!
+This project is configured to build with Ahead-of-time compilation, a new feature in the .NET SDK. For more information, see [Microsoft's Documentation](https://learn.microsoft.com/en-us/dotnet/core/deploying/native-aot/). AOT binaries are NOT portable and won't work between different operating systems!
 
 ## Usage
 
